@@ -18,6 +18,8 @@ I'm currently working mostly with PHP and VueJS in the intranet area of **Nelogi
 <br>
 
 ## Contacts
-  <a href="mailto:ballico591@gmail.com" title="E-mail pessoal"><img src="icons/icons8-email-96.png" style='width:48px' alt="E-mail pessoal"></a>
-  <a href="https://www.instagram.com/eduardoballico/" title="Instagram pessoal"><img src="icons/icons8-instagram-48.png" alt="Instagram pessoal"></a>
-  <a href="https://www.linkedin.com/in/eduardo-ballico/" title="LinkedIn pessoal"><img src="icons/icons8-linkedin.svg" style='width:48px' alt="LinkedIn pessoal"></a>
+  <div style='padding: 0px px'>
+    <a href="mailto:ballico591@gmail.com" title="E-mail pessoal"><img src="icons/icons8-email-96.png" style='width:48px; padding: 0px 10px' alt="E-mail pessoal"></a>
+    <a href="https://www.instagram.com/eduardoballico/" title="Instagram pessoal"><img src="icons/icons8-instagram-48.png" style='width:48px; padding: 0px 10px' alt="Instagram pessoal"></a>
+    <a href="https://www.linkedin.com/in/eduardo-ballico/" title="LinkedIn pessoal"><img src="icons/icons8-linkedin.svg" style='width:48px; padding: 0px 10px' alt="LinkedIn pessoal"></a>
+  </div>
