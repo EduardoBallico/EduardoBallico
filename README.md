@@ -21,12 +21,12 @@ I'm currently working mostly with PHP and VueJS in the intranet area of **Nelogi
 ## Contacts
   <div style='padding: 0px px'>
     <a 
-      href="mailto:ballico591@gmail.com"
-      title="E-mail pessoal">
+      href="mailto:eduardoballico.dev@gmail.com"
+      title="E-mail profissional">
       <img
         src="icons/icons8-email-96.png"
         style='width:48px; padding: 0px 10px'
-        alt="E-mail pessoal"
+        alt="E-mail profissional"
       >
     </a>
     <a
