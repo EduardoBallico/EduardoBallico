@@ -1,50 +1,28 @@
-# Welcome to my Github Profile!
+# Welcome to my GitHub Profile!
 
-Hi there! My name is Eduardo Ballico and here are some informations about me and my development journey.
+Hi there! I'm **Eduardo Ballico**, a Brazilian software engineer passionate about building products that make technology feel more human.
 
 <br>
 
 # About me
 
-I've been working in web development for two years and I'm currently in the sixth semester of the Bachelor's degree program in Software Engineering at **PUCRS** - Brazil. 
-
-## Working experience
-
-Throughout my professional experience, I've engaged with various software development stacks, including user interface design, backend development, database management, and data processing for importation.
-
-The majority of my experience has been centered around working with PHP, JavaScript, Java, MySQL, React, and TypeScript.  
-
-I'm currently working mostly with PHP and VueJS in the intranet area of **Nelogica**, a brazilian technology company that provides trading and investment solutions, market data and analytics, and educational resources for the brazilian financial market, with a focus on democratizing access to financial information.
+I'm a **Software Engineer at Nelogica**, where I focus on creating and improving internal systems used daily by hundreds of people.  
+Currently pursuing my **Bachelor’s degree in Software Engineering at PUCRS**, I’ve spent the past years exploring both the technical and human sides of software — how good engineering, empathy, and collaboration come together to create real impact.
 
 <br>
 
-## Contacts
-  <div style='padding: 0px px'>
-    <a 
-      href="mailto:eduardoballico.dev@gmail.com"
-      title="E-mail profissional">
-      <img
-        src="icons/icons8-email-96.png"
-        style='width:48px; padding: 0px 10px'
-        alt="E-mail profissional"
-      >
-    </a>
-    <a
-      href="https://www.instagram.com/eduardoballico/"
-      title="Instagram pessoal">
-      <img
-        src="icons/icons8-instagram-48.png"
-        style='width:48px; padding: 0px 10px'
-        alt="Instagram pessoal"
-      >
-    </a>
-    <a
-    href="https://www.linkedin.com/in/eduardo-ballico/"
-    title="LinkedIn pessoal">
-      <img
-        src="icons/icons8-linkedin.svg"
-        style='width:48px; padding: 0px 10px'
-        alt="LinkedIn pessoal"
-      >
-    </a>
-  </div>
+# Professional journey
+
+Over the last four years, I’ve worked across different layers of the web stack — from crafting intuitive interfaces to designing solid backend structures.  
+Most of my experience revolves around **TypeScript, Vue, PHP, and React**, but my real strength lies in **building efficient, scalable, and meaningful products**.
+
+I believe good software is built through **clarity, empathy, and persistence** — and I’m constantly looking for better ways to connect technology with people’s needs.
+
+<br>
+
+# Quick facts
+- 💼 Software Engineer @ **Nelogica**
+- 🎓 Bachelor in Software Engineering @ **PUCRS**
+- 💡 Focused on **UX, collaboration**, and **human-centered problem solving**
+- ⚙️ Experienced with **TypeScript, Vue, PHP, React, Node, AWS**
+- 🌱 Always learning — currently exploring **system design** and **leadership in tech**
