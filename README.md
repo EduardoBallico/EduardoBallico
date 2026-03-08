@@ -7,6 +7,7 @@ Hi there! I'm **Eduardo Ballico**, a Brazilian software engineer passionate abou
 # About me
 
 I'm a **Software Engineer at Nelogica**, where I focus on creating and improving internal systems used daily by hundreds of people.
+
 I hold a **Bachelor’s degree in Software Engineering from PUCRS**. Over the past years, I’ve explored both the technical and human sides of software — how good engineering, empathy, and collaboration come together to create real impact.
 
 <br>
